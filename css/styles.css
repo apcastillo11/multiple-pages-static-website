@@ -6,9 +6,21 @@ body {
   );
 
   color: white;
+  text-align: center;
 }
 
 h1 {
   font-family: "Satisfy", cursive;
   text-align: center;
+}
+
+a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: brown;
+  font-weight: bold;
 }
