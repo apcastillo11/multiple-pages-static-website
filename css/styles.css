@@ -1,0 +1,14 @@
+body {
+  background: radial-gradient(
+    755px at 10.1% 95.3%,
+    rgb(242, 188, 141) 0%,
+    rgb(242, 159, 141) 100.2%
+  );
+
+  color: white;
+}
+
+h1 {
+  font-family: "Satisfy", cursive;
+  text-align: center;
+}
